@@ -24,7 +24,7 @@ Jinja2==3.1.6
 jiter==0.10.0
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
-llama_stack==0.2.10.1
+llama_stack==0.4.4
 llama_stack_client==0.2.10
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
